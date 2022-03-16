@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm a student studying Artificial Intelligence at the Deggendorf Institute of Technology.
+I'm a student studying Artificial Intelligence at the Deggendorf Institute of Technology.
 
 - 🔭 I’m currently in my 4th semester.
 - 🌱 I’m currently learning Linux and Vim.
